@@ -1,4 +1,4 @@
-//Autor: Gabriel Alcântara Silva
+//Author: Gabriel AlcÃ¢ntara Silva
 //Profile: https://br.linkedin.com/in/gabrielcratoalcantara
 //Title: Using dynamic programming for viewing and count of prime numbers
 
@@ -18,7 +18,7 @@ bool vet[MAX];
 int main()
 {
     int n,cont=0;
-
+    //make the adjustment for values greater than 10 
     scanf("%d",&n);
     //printf("%d\n%d\n",2,3);
     for(int m=1; n/6>=m; m++){
