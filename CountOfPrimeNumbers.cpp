@@ -18,7 +18,7 @@ bool vet[MAX];
 int main()
 {
     int n,cont=0;
-    //make the adjustment for values greater than 10 
+    //Make an adjustment to below 10 
     scanf("%d",&n);
     //printf("%d\n%d\n",2,3);
     for(int m=1; n/6>=m; m++){
