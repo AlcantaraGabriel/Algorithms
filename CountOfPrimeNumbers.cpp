@@ -24,12 +24,12 @@ int main()
     for(int m=1; n/6>=m; m++){
         int x = 6*m -1,y = 6*m +1;
         //is prime (3*(2^1))-1 our 6m-1
-        if(vet[x]==false){
+        if(vet[x]==false && x<=N){
             cont++;
             //printf("%d\n",x);
         }
         //is prime (3*(2^1))+1 our 6m+1
-        if(vet[y]==false){
+        if(vet[y]==false && y<=N){
             cont++;
             //printf("%d\n",y);
         }
