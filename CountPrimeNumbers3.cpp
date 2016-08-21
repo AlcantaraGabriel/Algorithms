@@ -1,3 +1,6 @@
+//Author: Gabriel Alcântara Silva
+//Title: Using dynamic programming for viewing and count of prime numbers
+
 #include <cstdio>
 #include <vector>
  
