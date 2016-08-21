@@ -17,7 +17,7 @@ int main()
  
         int NdivPrimo=n/x;
  
-        for(int j=6;(n/x)+1>=j;j+=6){
+        for(int j=6*m;(n/x)+1>=j;j+=6){
  
             if(vet[x]==false || vet[y]==false){
                 if(vet[x]==false)
