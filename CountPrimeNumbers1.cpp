@@ -1,7 +1,6 @@
 //Author: Gabriel Alcântara Silva
 //Title: Using dynamic programming for viewing and count of prime numbers
 
-//Distribution of primes numbers: (3*2)^N+1 our (3*2)^N+1, N is a natural number greater than -1
 //N = 0
 //3*2^0-1 = 2, is prime
 //3*2^0+1 = 4, not is prime
