@@ -1,5 +1,4 @@
 //Author: Gabriel Alcântara Silva
-//Profile: https://br.linkedin.com/in/gabrielcratoalcantara
 //Title: Using dynamic programming for viewing and count of prime numbers
 
 //Distribution of primes numbers: 3*2^N+1 our 3*2^N+1, N is a natural number greater than -1
